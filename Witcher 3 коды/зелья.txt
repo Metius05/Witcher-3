@@ -1,0 +1,44 @@
+    Black Blood 1
+    Black Blood 2
+    Black Blood 3
+    Blizzard 1
+    Blizzard 2
+    Blizzard 3
+    Cat 1
+    Cat 2
+    Cat 3
+    Clearing Potion
+    Full Moon 1
+    Full Moon 2
+    Full Moon 3
+    Golden Oriole 1
+    Golden Oriole 2
+    Golden Oriole 3
+    Killer Whale 1
+    Maribor Forest 1
+    Maribor Forest 2
+    Maribor Forest 3
+    Petri Philtre 1
+    Petri Philtre 2
+    Petri Philtre 3
+    Pheromone Potion Bear 1
+    Pheromone Potion Drowner 1
+    Pheromone Potion Nekker 1
+    Pops Antidote
+    Swallow 1
+    Swallow 2
+    Swallow 3
+    Tawny Owl 1
+    Tawny Owl 2
+    Tawny Owl 3
+    Thunderbolt 1
+    Thunderbolt 2
+    Thunderbolt 3
+    Trial Potion Kit
+    Village drink
+    White Honey 1
+    White Honey 2
+    White Honey 3
+    White Raffards Decoction 1
+    White Raffards Decoction 2
+    White Raffards Decoction 3

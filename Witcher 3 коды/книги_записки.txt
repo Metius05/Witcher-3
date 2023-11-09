@@ -1,0 +1,257 @@
+    Armor maintenance
+    Beasts vol 1
+    Beasts vol 2
+    Boat vol 1
+    Boat vol 2
+    Book of Arachases
+    br201_notice
+    br202_notice
+    br301_notice
+    br302_notice
+    cg_notice_baron
+    cg_notice_mousesack
+    cg_notice_sq306_maverick
+    cg_notice_stjepan
+    cg_notice_vivaldi
+    Cursed Monsters vol 1
+    Cursed Monsters vol 2
+    Draconides vol 1
+    Draconides vol 2
+    ff100_notice
+    ff200_notice
+    ff300_notice
+    flotsam_experiment
+    Gear improvement
+    Glossary Temerian Dynasty
+    gp_prologue_bandit_note01
+    gp_prologue_bandit_note02
+    gp_prologue_bandit_note03
+    gp_prologue_cultist_note01
+    gp_prologue_cultist_note02
+    Horse vol 1
+    Horse vol 2
+    hr101_notice
+    hr200_notice
+    Hybrid Monsters vol 1
+    Hybrid Monsters vol 2
+    Insectoids vol 1
+    Insectoids vol 2
+    item_name_mq1051_contract
+    item_name_mq2052_contract
+    item_name_mq3031_notice
+    item_name_sq201_werewolf_contract
+    item_name_sq210_notice
+    Jacob of Varazze Chronicles
+    Journey into the mind
+    lore_about_the_fourth_witch
+    lore_aleksanders_notes
+    lore_an_seidhe_and_aen_elle
+    lore_basics_of_magic
+    lore_bells_of_beauclair
+    lore_brother_adalbert_bestiary
+    lore_cirilla_of_cintra
+    lore_conjunction_of_spheres
+    lore_cult_of_freyia
+    lore_cult_of_hemdall
+    lore_druids
+    lore_elder_blood
+    lore_elven_legends
+    lore_elven_ruins
+    lore_elven_sages
+    lore_fall_of_wyzima
+    lore_fate_of_temeria
+    lore_goetia
+    lore_hydromancy
+    lore_imperial_edict_i
+    lore_imperial_edict_ii
+    lore_inteligence_report_about_ciri
+    lore_journals_from_urskar_1
+    lore_journals_from_urskar_2
+    lore_journals_from_urskar_3
+    lore_journals_from_urskar_4
+    lore_journals_from_urskar_5
+    lore_journals_from_urskar_6
+    lore_journals_from_urskar_7
+    lore_kovir
+    lore_last_wish
+    lore_lodge_of_sorceresses
+    lore_monstrum
+    lore_naglfar_demonic_drakkar
+    lore_necromancy
+    lore_nilfgaardian_empire
+    lore_nilfgaardian_history_book
+    lore_nilfgaardian_royal_dynasty
+    lore_nilfgaardian_transport_orders
+    lore_non_humans
+    lore_novigrad
+    lore_oneiromancy
+    lore_oxenfurt
+    lore_polymorphism
+    lore_popiels_journal
+    lore_principles_of_eternal_fire
+    lore_prophecy_of_ithlinne
+    lore_radovid_propaganda_pamphlet
+    lore_radovids_rise_to_power
+    lore_ragnarok
+    lore_redania
+    lore_redanian_secret_service
+    lore_sands_of_zerrikania
+    lore_skellige_heroes_broddr
+    lore_skellige_heroes_grymmdjarr
+    lore_skellige_heroes_modolf
+    lore_skellige_heroes_otkell
+    lore_skellige_heroes_sove
+    lore_skellige_heroes_tyr
+    lore_skellige_island
+    lore_study_on_white_cold
+    lore_summit_of_loc_muinne
+    lore_the_great_four
+    lore_theory_of_spheres
+    lore_third_war_with_nilfgaard
+    lore_tyromancy
+    lore_unfinished_war_annals
+    lore_velen
+    lore_war_between_astrals
+    lore_wars_with_nilfgaard
+    lore_wild_hunt
+    lore_witch_hunters
+    lore_witcher_signs
+    lore_witchers
+    lore_yennefer_journals
+    lw_bm6_merchant_note
+    lw_cb17_bandits_note
+    lw_cp13_bandit_note
+    lw_cp13_refugee_note
+    lw_cp14_bandit_note
+    lw_cp14_child_note
+    lw_cp33_treasure_note
+    lw_cp36_note
+    lw_cp39_captains_log
+    lw_de_wett_note
+    lw_de11_note
+    lw_de32_treasure_note
+    lw_gf2_white_note
+    lw_gr_poi_042_letter
+    lw_gr12_ferry_man_note
+    lw_gr13_poppy_slaver_note
+    lw_gr13_slaver_note
+    lw_gr15_bandits_note
+    lw_gr15_ghouls_note
+    lw_gr29_bandit_note
+    lw_gr34_note
+    lw_gr39_note
+    lw_gr40_note
+    lw_gr41_note
+    lw_gr7_soldiers_note
+    lw_hs2_bandit_note
+    lw_hs2_scoiatael_note
+    lw_mp4_merchant_note
+    lw_prologue_fallen_soldier_letter01
+    lw_prologue_temerian_loot_manifest
+    lw_prologue_temerian_treasure_note
+    lw_sb12_pirate_note
+    lw_sb13_smugglers_note
+    lw_sb14_fisherman_letter
+    lw_sb14_pirate_note
+    lw_sb18_camps_note
+    lw_sb2_base_camp_map
+    lw_sb2_base_camp_note
+    lw_sb2_sunken_ships_map
+    lw_sb2_sunken_ships_note
+    lw_sb20_chest_note
+    lw_sb24_note
+    lw_sb3_camps_note
+    lw_sb3_giggler_note_pirates
+    lw_sb3_giggler_note_workers
+    lw_sb5_giggler_leader_note
+    lw_sk_poi_005_treasure_note
+    lw_sk_poi_050_note
+    lw_sk_poi_056_note
+    lw_sk16_village_note
+    lw_sk25_bandits_note
+    lw_sk25_blood_countess_note
+    lw_sk3_ship_note
+    lw_sk30_villager_note
+    lw_sk31_note
+    lw_sk32_note
+    lw_sk38_treasure_note
+    lw_sk4_note
+    lw_sk41_prison_island_note
+    lw_sk42_treasure_note
+    lw_sk57_treasure_note
+    lw_sk86_guards_note
+    lw_sk86_old_mans_note
+    lw_tm_underwater_dungeon_note
+    lw_tm12_bandit_note
+    lw_tm15_treasure_hunter_note
+    lw_tm5_villager_note
+    lw_tm6_note
+    Magical Monsters vol 1
+    Magical Monsters vol 2
+    mh101_contract
+    mh102_contract
+    mh103_contract
+    mh104_contract
+    mh106_contract
+    mh107_contract
+    mh108_contract
+    mh201_contract
+    mh202_contract
+    mh203_contract
+    mh206_contract
+    mh207_contract
+    mh210_contract
+    mh301_contract
+    mh302_contract
+    mh303_contract
+    mh304_contract
+    mh305_contract
+    mh306_contract
+    mh307_contract
+    mh308_contract
+    mq0001_contract
+    mq0003_contract
+    mq1002_3012_notice
+    mq1006_notice
+    mq1011_notice
+    mq1013_notice
+    mq1016_notice
+    mq1022_notice
+    mq1043_notice
+    mq1050_notice
+    mq1051_orders_note
+    mq2001_notice_board_holmstein
+    mq2001_notice_board_kaer_trolde
+    mq2030_nithing
+    Necronomicon
+    Necrophage vol 1
+    Necrophage vol 2
+    Nilfgard arms and tactics
+    noon_shadow_loot_note
+    Norther Kingdoms arms and tactics
+    Ogres vol 1
+    Ogres vol 2
+    Orders from Shilard
+    Poems of Gonzal de Verceo
+    poi_bandit_camp_3_note
+    poi_telescope_note
+    poi_temerian_treasure_note
+    q301_notice_haunted_house
+    Relict Monsters vol 1
+    Relict Monsters vol 2
+    sk48_splintered_ships_note
+    Skelige arms and tactics
+    Specters vol 1
+    Specters vol 2
+    sq102_contract
+    sq104_werewolf
+    sq106_name_ekimma_contract
+    sq108_griffon_contract
+    sq204_forest_spirit_contract
+    sq305_notice
+    Theatre Glossary vol 1
+    Theatre Glossary vol 2
+    Vampires vol 1
+    Vampires vol 2
+    Weapon maintenance
+    Wild Hunt

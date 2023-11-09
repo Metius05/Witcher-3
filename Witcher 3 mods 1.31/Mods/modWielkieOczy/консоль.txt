@@ -1,0 +1,6 @@
+additem("Wielkie Oczy STD")
+additem("Wielkie Oczy TOX")
+additem("Wielkie Oczy SIGNS")
+additem("Wielkie Oczy ARM")
+additem("Wielkie Oczy ATK")
+additem("Wielkie Oczy OP")

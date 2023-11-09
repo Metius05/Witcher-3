@@ -1,0 +1,442 @@
+    Aether
+    Albedo
+    Alchemical paste
+    Alchemists powder
+    Alcohest
+    Alghoul bone marrow
+    Alghoul claw
+    Amber
+    Amber dust
+    Amber flawless
+    Amber fossil
+    Amethyst
+    Amethyst dust
+    Amethyst flawless
+    an_skellige_map
+    Ancient Leshy mutagen
+    Apple
+    Apple juice
+    Arachas eyes
+    Arachas mutagen
+    Arachas venom
+    ard_skellige_map
+    Armor maintenancet
+    Armor repair kit 1
+    Armor repair kit 2
+    Armor repair kit 3
+    Ashes
+    Axe head
+    Bag of grain
+    Bag of weed
+    Baked apple
+    Baked potato
+    Banana
+    Bandalur butter knife
+    Basilisk mutagen
+    Basilisk plate
+    Basilisk venom
+    Bear fat
+    Bear pelt
+    Beauclair White
+    Bell pepper
+    Berserker pelt
+    Black pearl
+    Black pearl dust
+    Blasting powder
+    Blueberries
+    Blunt axe
+    Blunt pickaxe
+    Book
+    Bottle
+    Bottled water
+    Bread
+    Broken paddle
+    Broken rakes
+    Bun
+    Burned bread
+    Burned bun
+    Butter Bandalura
+    Calcium equum
+    Candelabra
+    Candle
+    Candy
+    Casket
+    Cave Troll liver
+    Chain
+    Cheese
+    Cherry cordia
+    Cherry Cordial
+    Chicken
+    Chicken leg
+    Chicken sandwich
+    Child doll
+    Chips
+    Chitin scale
+    ciris_phylactery
+    Coal
+    Cockatrice egg
+    Cockatrice maw
+    Cockatrice mutagen
+    Cotton
+    Cow hide
+    Cows milk
+    Crowns
+    Crystalized essence
+    Cucumber
+    Cyclops eye
+    Czart hide
+    Czart mutagen
+    Dao mutagen
+    Dark iron ingot
+    Dark iron ore
+    Dark iron plate
+    Dark steel ingot
+    Dark steel plate
+    Deer hide
+    Diamond
+    Diamond dust
+    Diamond flawless
+    Dijkstra Dry
+    Dismantle Kit
+    Dog tallow
+    Doppler mutagen
+    Draconide leather
+    Dragon scales
+    Dried fruit
+    Dried fruit and nuts
+    Drowned dead tongue
+    Drowner brain
+    Drum
+    Ducal water
+    Dwarven spirit
+    Dwimeritium chains
+    Dwimeritium shackles
+    Dwimeryte ingot
+    Dwimeryte ore
+    Dwimeryte plate
+    Dye
+    Egg
+    Ekimma epidermis
+    Ekimma mutagen
+    Elemental essence
+    Emerald
+    Emerald dust
+    Emerald flawless
+    Empty bottle
+    Empty vial
+    Endriag chitin plates
+    Endriag embryo
+    Endriag heart
+    Erveluce
+    Erynie eye
+    Est Est
+    faroe_map
+    Feather
+    Fiber
+    Fiend eye
+    Fiend mutagen
+    Fifth essence
+    Fish
+    Fishing net
+    Fishing rod
+    Fisstech
+    Flask
+    Florens
+    Flowers
+    Flute_junk
+    Fogling 1 mutagen
+    Fogling 2 mutagen
+    Fogling teeth
+    Fondue
+    Forktail mutagen
+    Forktail plate
+    Fox pelt
+    Free nilfgaardian lemon
+    Free roasted chicken leg
+    Fried fish
+    Fried meat
+    Fur square
+    Gargoyle dust
+    Gargoyle heart
+    Ghoul blood
+    Glamarye
+    Glass
+    Glowing ingot
+    Glowing ore
+    Glyph infusion greater
+    Glyph infusion lesser
+    Goat hide
+    Goats milk
+    Goblet
+    Gold candelabra
+    Gold diamond necklace
+    Gold diamond ring
+    Gold mineral
+    Gold ore
+    Gold pearl necklace
+    Gold ring
+    Gold ruby ring
+    Gold sapphire necklace
+    Gold sapphire ring
+    Golden casket
+    Golden mug
+    Golden platter
+    Golem heart
+    Grapes
+    Grave Hag ear
+    Grave Hag mutagen
+    Greater mutagen blue
+    Greater mutagen green
+    Greater mutagen red
+    Greater Rotfiend blood
+    Grilled chicken sandwich
+    Grilled pork
+    Gryphon egg
+    Gryphon feathers
+    Gryphon mutagen
+    Gutted fish
+    Haft
+    Hag teeth
+    Ham sandwich
+    Hardened leather
+    Hardened timber
+    Harpy egg
+    Harpy feathers
+    Harpy talon
+    hindarsfjal_map
+    Honeycomb
+    Horse hide
+    Hydragenum
+    Illusion Medallion
+    Infused crystal
+    Infused dust
+    Infused shard
+    Inkwell
+    Iron ingot
+    Iron Lamp
+    Iron oil candle
+    Iron ore
+    Jar
+    Jug
+    Jumping rope
+    Kaedwenian Stout
+    Katakan mutagen
+    Ladle
+    Lamia lock of hair
+    Lamia mutagen
+    Lead ore
+    Leather
+    Leather squares
+    Leather straps
+    Leshy mutagen
+    Leshy resin
+    Lesser mutagen blue
+    Lesser mutagen green
+    Lesser mutagen red
+    Linen
+    Local pepper vodka
+    Lunar shards
+    Lute
+    Mahakam Spirit
+    Mandrake cordial
+    Melitele figurine
+    Meteorite ingot
+    Meteorite ore
+    Meteorite plate
+    Meteorite silver ingot
+    Meteorite silver plate
+    Mettina Rose
+    mh107_czart_lure
+    Monstrous blood
+    Monstrous bone
+    Monstrous brain
+    Monstrous claw
+    Monstrous dust
+    Monstrous ear
+    Monstrous egg
+    Monstrous essence
+    Monstrous eye
+    Monstrous feather
+    Monstrous hair
+    Monstrous heart
+    Monstrous hide
+    Monstrous liver
+    Monstrous plate
+    Monstrous saliva
+    Monstrous tongue
+    Monstrous tooth
+    Mug
+    Mushroom
+    Mutagen blue
+    Mutagen green
+    Mutagen red
+    Mutton curry
+    Mutton leg
+    Nails
+    Necrophage skin
+    Nekker blood
+    Nekker claw
+    Nekker eye
+    Nekker heart
+    Nekker warrior liver
+    Nekker Warrior mutagen
+    Nightwraith dark essence
+    Nightwraith mutagen
+    Nightwraiths hair
+    Nigredo
+    Nilfgaardian Lemon
+    Nilfgaardian special forces insignia
+    Noonwraith light essence
+    Noonwraith mutagen
+    Note
+    Oil
+    Oil Lamp
+    Old bear skin
+    Old goat skin
+    Old rusty breadknife
+    Old sheep skin
+    Olive
+    Onion
+    Optima mater
+    ore_oxenfurt
+    Orens
+    Ornate silver shield replica
+    Ornate silver sword replica
+    Parchment
+    Patchwork vest
+    Pear
+    Pearl
+    Pepper
+    Perfume
+    Phosphorus
+    Pickaxe head
+    Pig hide
+    Platter
+    Plum
+    Pork
+    Potatoes
+    Potestaquisitor
+    Powdered pearl
+    Pure silver
+    Q1_short_steel_sword
+    q103_bell
+    q203_eyeofloki
+    q403_ciri_meteor
+    Quebrith
+    Quicksilver solution
+    Rabbit pelt
+    Raspberries
+    Raspberry juice
+    Raw meat
+    Razor
+    Rebis
+    Redanian Herbal
+    Redanian Lager
+    Redanian special forces insignia
+    Resin
+    Rivian Kriek
+    Roasted chicken
+    Roasted chicken leg
+    Rope
+    Rotfiend blood
+    Rotten meat
+    Rubedo
+    Ruby
+    Ruby dust
+    Ruby flawless
+    Runestone greater
+    Runestone lesser
+    Rusty hammer head
+    Salt pepper shaker
+    Saltpetre
+    Sap
+    Sapphire
+    Sapphire dust
+    Sapphire flawless
+    Scoiatael trophies
+    Seashell
+    Shell
+    Silk
+    Silver amber necklace
+    Silver amber ring
+    Silver candelabra
+    Silver casket
+    Silver emerald necklace
+    Silver emerald ring
+    Silver ingot
+    Silver mineral
+    Silver mug
+    Silver ore
+    Silver pantaloons
+    Silver plate
+    Silver platter
+    Silver ruby necklace
+    Silver sapphire ring
+    Silver teapot
+    Silverware
+    Siren vocal cords
+    Skull
+    Smithing tools
+    Smithing tools dwarven
+    Smithing tools elven
+    Smithing tools gnomish
+    Smoking pipe
+    Specter dust
+    spikeroog_map
+    Stammelfords dust
+    Steel ingot
+    Steel plate
+    Strawberries
+    String
+    Succubus mutagen
+    Sulfur
+    Temerian Rye
+    Temerian special forces insignia
+    Thread
+    Timber
+    Tirnalia potion
+    Toffee
+    Troll mutagen
+    Troll skin
+    Twine
+    undvik_map
+    Valuable fossil
+    Vampire fang
+    Vampire saliva
+    Venom extract
+    Vermilion
+    Very good honey
+    Vinegar
+    Vitriol
+    Viziman Champion
+    Volcanic Gryphon mutagen
+    Voodoo doll
+    Water essence
+    Water Hag mutagen
+    Water Hag teeth
+    Wax
+    Weapon repair kit 1
+    Weapon repair kit 2
+    Weapon repair kit 3
+    Werewolf mutagen
+    Werewolf pelt
+    Werewolf saliva
+    Whetstone
+    Whetstone dwarven
+    Whetstone elven
+    Whetstone gnomish
+    White bear pelt
+    White Gull 1
+    White wolf pelt
+    Wine stone
+    Wire
+    Wire rope
+    Wolf liver
+    Wolf pelt
+    Wooden rung rope ladder
+    Worn leather pelt
+    Wraith essence
+    Wraith mutagen
+    Wyvern egg
+    Wyvern mutagen
+    Wyvern plate

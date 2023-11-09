@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<UserConfig>
+
+    <Group id="MinimapZoom" displayName="Mods.MinimapZoom" tags="customNames;customDisplayName">
+        <PresetsArray>
+            <Preset id="0" displayName="Default" tags="customNames;customDisplayName">
+                <Entry varId="exterior_minimap_size"	value="100"	/>
+                <Entry varId="horse_minimap_size"	value="100"	/>
+                <Entry varId="interior_minimap_size"	value="100"	/>
+                <Entry varId="boat_minimap_size"	value="100"	/>
+                <Entry varId="minimap_step"	value="5"	/>
+            </Preset>
+            <Preset id="1" displayName="Recommended" tags="customNames;customDisplayName">
+                <Entry varId="exterior_minimap_size"	value="175"	/>
+                <Entry varId="horse_minimap_size"	value="250"	/>
+                <Entry varId="interior_minimap_size"	value="125"	/>
+                <Entry varId="boat_minimap_size"	value="125"	/>
+                <Entry varId="minimap_step"	value="10"	/>
+            </Preset>
+            <Preset id="2" displayName="Extreme" tags="customNames;customDisplayName">
+                <Entry varId="exterior_minimap_size"	value="300"	/>
+                <Entry varId="horse_minimap_size"	value="300"	/>
+                <Entry varId="interior_minimap_size"	value="150"	/>
+                <Entry varId="boat_minimap_size"	value="150"	/>
+                <Entry varId="minimap_step"	value="15"	/>
+            </Preset>
+        </PresetsArray>
+        <VisibleVars>			
+            <Var id="exterior_minimap_size" displayName="exterior_minimap_size" displayType="SLIDER;50;400;70"
+			 tags="customNames;customDisplayName"/>	
+
+            <Var id="horse_minimap_size" displayName="horse_minimap_size" displayType="SLIDER;50;400;70"
+			 tags="customNames;customDisplayName"/>	
+
+            <Var id="interior_minimap_size" displayName="interior_minimap_size" displayType="SLIDER;50;400;70"
+			 tags="customNames;customDisplayName"/>		
+
+            <Var id="boat_minimap_size" displayName="boat_minimap_size" displayType="SLIDER;50;400;70"
+			 tags="customNames;customDisplayName"/>	
+
+            <Var id="minimap_step" displayName="minimap_step" displayType="SLIDER;5;50;9"
+			 tags="customNames;customDisplayName"/>	
+        </VisibleVars>
+    </Group>	
+
+</UserConfig>

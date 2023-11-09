@@ -1,0 +1,298 @@
+    Abarad
+    Addandeith
+    Aerondight
+    Anathema
+    Angivare
+    Anth
+    Arainne
+    Arbitrator
+    Arbitrator_crafted
+    Ardaenye
+    Ashrune
+    Azurewrath
+    Bandit Shield 01
+    Bandit Shield 02
+    Bandit Shield 03
+    Bandit Shield 04
+    Barbersurgeon
+    Baron Guard Shield 01
+    Beannshie
+    Beannshie_crafted
+    Bear School Crossbow
+    Bear School silver sword
+    Bear School silver sword 1
+    Bear School silver sword 2
+    Bear School silver sword 3
+    Bear School steel sword
+    Bear School steel sword 1
+    Bear School steel sword 2
+    Bear School steel sword 3
+    Blackunicorn
+    Blackunicorn_crafted
+    Bladeofys
+    Bloedeaedd
+    Bloodsword
+    bow_01
+    bow_02
+    bow_elven_01
+    Breathofthenorth
+    Caerme
+    Caranthil Staff
+    Caranthil Staff Broken
+    Caroline
+    Cheesecutter
+    Cleaver
+    Crossbow 1
+    Crossbow 2
+    Crossbow 3
+    Crossbow 4
+    Crossbow 5
+    Crossbow 6
+    Crossbow 7
+    Crossbow q206
+    crossbow_01
+    Dancer
+    Daystar
+    Deargdeith
+    Deireadh
+    Deithwen
+    Devine
+    Dwarven silver sword 1
+    Dwarven silver sword 1_crafted
+    Dwarven silver sword 2
+    Dwarven silver sword 2_crafted
+    Dwarven sword 1
+    Dwarven sword 1_crafted
+    Dwarven sword 2
+    Dwarven sword 2_crafted
+    Dyaebl
+    Elven silver sword 1
+    Elven silver sword 1_crafted
+    Elven silver sword 2
+    Elven silver sword 2_crafted
+    Fate
+    Forgottenvransword
+    Gloryofthenorth
+    Gnomish silver sword 1
+    Gnomish silver sword 1_crafted
+    Gnomish silver sword 2
+    Gnomish silver sword 2_crafted
+    Gnomish sword 1
+    Gnomish sword 1_crafted
+    Gnomish sword 2
+    Gnomish sword 2_crafted
+    Gryphon School silver sword
+    Gryphon School silver sword 1
+    Gryphon School silver sword 2
+    Gryphon School silver sword 3
+    Gryphon School steel sword
+    Gryphon School steel sword 1
+    Gryphon School steel sword 2
+    Gryphon School steel sword 3
+    Gwestog
+    Gwyhyr
+    Gynvael
+    Gynvaelaedd
+    Harpy
+    Harpy_crafted
+    Harvall
+    Havcaaren
+    Headtaker
+    Hjalmar_Short_Steel_Sword
+    Imlerith Mace
+    Imlerith Shield
+    Inis
+    Inquisitor sword 1
+    Inquisitor sword 1_crafted
+    Inquisitor sword 2
+    Inquisitor sword 2_crafted
+    Karabela
+    Loathen
+    Long Steel Sword
+    Longclaw
+    Longclaw_crafted
+    Lune
+    Lynx School Crossbow
+    Lynx School silver sword
+    Lynx School silver sword 1
+    Lynx School silver sword 2
+    Lynx School silver sword 3
+    Lynx School steel sword
+    Lynx School steel sword 1
+    Lynx School steel sword 2
+    Lynx School steel sword 3
+    Moonblade
+    Mourner
+    Naevdeseidhe
+    Negotiator
+    Negotiator_crafted
+    Nilfgaard Shield 01
+    Nilfgaard Shield 02
+    Nilfgaardian sword 1
+    Nilfgaardian sword 1_crafted
+    Nilfgaardian sword 2
+    Nilfgaardian sword 3
+    Nilfgaardian sword 4
+    Nilfgaardian sword 4_crafted
+    No Mans Land sword 1
+    No Mans Land sword 1 q2
+    No Mans Land sword 1_crafted
+    No Mans Land sword 2
+    No Mans Land sword 2_crafted
+    No Mans Land sword 3
+    No Mans Land sword 3_crafted
+    No Mans Land sword 4
+    No Mans Land sword 4_crafted
+    Novigraadan sword 1
+    Novigraadan sword 1_crafted
+    Novigraadan sword 2
+    Novigraadan sword 2_crafted
+    Novigraadan sword 3
+    Novigraadan sword 3_crafted
+    Novigraadan sword 4
+    Novigraadan sword 4_crafted
+    Novigrad Shield 01
+    Novigrad Shield 02
+    NPC CyprianWhorenson sword
+    NPC Dandelion Short Steel Sword
+    NPC Eredin Sword
+    NPC Hjalmar_Short_Steel_Sword
+    NPC Inquisitor sword 1
+    NPC Nilfgaardian sword 1
+    NPC Nilfgaardian sword 2
+    NPC Nilfgaardian sword 3
+    NPC Nilfgaardian sword 4
+    NPC No Mans Land sword 1
+    NPC No Mans Land sword 1 q2
+    NPC No Mans Land sword 2
+    NPC No Mans Land sword 3
+    NPC No Mans Land sword 4
+    NPC Novigraadan sword 1
+    NPC Novigraadan sword 2
+    NPC Novigraadan sword 3
+    NPC Novigraadan sword 4
+    NPC q402 Skellige sword 3
+    NPC Rusty Nilfgaardian sword
+    NPC Rusty No Mans Land sword
+    NPC Rusty Novigraadan sword
+    NPC Rusty Skellige sword
+    NPC Scoiatael sword 1
+    NPC Scoiatael sword 2
+    NPC Scoiatael sword 3
+    NPC Scoiatael sword 4
+    NPC Short sword 1
+    NPC Short sword 2
+    NPC Skellige sword 1
+    NPC Skellige sword 2
+    NPC Skellige sword 3
+    NPC Skellige sword 4
+    NPC Vesemir Silver Sword
+    NPC Vesemir Silver Sword q403 upgrade
+    NPC Vesemir Steel Sword
+    NPC Wildhunt sword 2
+    NPC Witcher Silver Sword
+    NPC Witcher Silver Sword q403 upgrade
+    NPC Witcher Steel Sword
+    Princessxenthiasword
+    Q1_axe1h
+    Q1_axe1h_mq2024_spirit
+    Q1_Axe2h
+    Q1_brokenSpear
+    Q1_cleaver1h
+    Q1_club1h
+    Q1_Guisarme2h
+    Q1_Halberd2h
+    Q1_Hammer2h
+    Q1_mace1h
+    Q1_Mage_Staff2h
+    Q1_pickaxe1h
+    Q1_Pitchfork2h
+    Q1_Shield
+    Q1_Spear2h
+    Q1_ZoltanAxe2h
+    Q2_axe1h
+    Q2_Axe2h
+    Q2_cleaver1h
+    Q2_Guisarme2h
+    Q2_Halberd2h
+    Q2_Hammer2h
+    Q2_mace1h
+    Q2_Mage_Staff2h
+    Q2_Spear2h
+    Q3_DwarvenAxe2h
+    Q3_DwarvenHammer2h
+    Q3_Mage_Staff2h
+    q505 crafted sword
+    Reachofthedamned
+    Redanian Shield 01
+    Robustswordofdolblathanna
+    Roseofaelirenn
+    Rusty Nilfgaardian sword
+    Rusty No Mans Land sword
+    Rusty Novigraadan sword
+    Rusty Skellige sword
+    Scoiatael sword 1
+    Scoiatael sword 1_crafted
+    Scoiatael sword 2
+    Scoiatael sword 2_crafted
+    Scoiatael sword 3
+    Scoiatael sword 3_crafted
+    Scoiatael sword 4
+    Scoiatael sword 4_crafted
+    Short Steel Sword
+    Short sword 1
+    Short sword 1_crafted
+    Short sword 2
+    Short sword 2_crafted
+    Silver sword 1
+    Silver sword 1_crafted
+    Silver sword 2
+    Silver sword 2_crafted
+    Silver sword 3
+    Silver sword 3_crafted
+    Silver sword 4
+    Silver sword 4_crafted
+    Silver sword 5
+    Silver sword 5_crafted
+    Silver sword 6
+    Silver sword 6_crafted
+    Silver sword 7
+    Silver sword 7_crafted
+    Silver sword 8
+    Skellige Brokvar Shield 01
+    Skellige Craite Shield 01
+    Skellige Dimun Shield 01
+    Skellige Drummond Shield 01
+    Skellige Heymaey Shield 01
+    Skellige sword 1
+    Skellige sword 1_crafted
+    Skellige sword 2
+    Skellige sword 2_crafted
+    Skellige sword 3_crafted
+    Skellige sword 4
+    Skellige sword 4_crafted
+    Skellige Tuiseach Shield 01
+    sq303_blunt_sword
+    sq304 Novigraadan sword 4
+    Temeria Shield 01
+    Tlareg
+    Torlara
+    Torzirael
+    Ultimatum
+    Viper School silver sword
+    Viper School steel sword
+    Virgin
+    Vynbleidd
+    Weeper
+    Weeper_crafted
+    Wild Hunt sword 1
+    Wild Hunt sword 2
+    Wild Hunt sword 3
+    Wild Hunt sword 4
+    Witcher Silver Sword
+    WitcherSilverWolf
+    Wolf
+    Wooden sword
+    Zerrikanterment
+    Zireael Phantom Sword
+    Zireael Sword

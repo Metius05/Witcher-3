@@ -1,0 +1,94 @@
+    Bear Armor
+    Bear Armor 1
+    Bear Armor 2
+    Bear Armor 3
+    Bear Boots 1
+    Bear Boots 2
+    Bear Boots 3
+    Bear Boots 4
+    Bear Gloves 1
+    Bear Gloves 2
+    Bear Gloves 3
+    Bear Gloves 4
+    Bear Pants 1
+    Bear Pants 2
+    Bear Pants 3
+    Bear Pants 4
+    Boots 01_crafted
+    Boots 02_crafted
+    Boots 03_crafted
+    Boots 04_crafted
+    Boots 07_crafted
+    Gloves 01_crafted
+    Gloves 02_crafted
+    Gloves 03_crafted
+    Gloves 04_crafted
+    Gryphon Armor
+    Gryphon Armor 1
+    Gryphon Armor 2
+    Gryphon Armor 3
+    Gryphon Boots 1
+    Gryphon Boots 2
+    Gryphon Boots 3
+    Gryphon Boots 4
+    Gryphon Gloves 1
+    Gryphon Gloves 2
+    Gryphon Gloves 3
+    Gryphon Gloves 4
+    Gryphon Pants 1
+    Gryphon Pants 2
+    Gryphon Pants 3
+    Gryphon Pants 4
+    Heavy armor 01_crafted
+    Heavy armor 02_crafted
+    Heavy armor 03_crafted
+    Heavy armor 04_crafted
+    Heavy boots 01_crafted
+    Heavy boots 02_crafted
+    Heavy boots 03_crafted
+    Heavy boots 04_crafted
+    Heavy boots 07_crafted
+    Heavy boots 08_crafted
+    Heavy gloves 01_crafted
+    Heavy gloves 02_crafted
+    Heavy gloves 03_crafted
+    Heavy gloves 04_crafted
+    Heavy pants 01_crafted
+    Heavy pants 02_crafted
+    Heavy pants 03_crafted
+    Heavy pants 04_crafted
+    Light armor 01_crafted
+    Light armor 02_crafted
+    Light armor 03_crafted
+    Light armor 04_crafted
+    Light armor 05_crafted
+    Light armor 06_crafted
+    Light armor 07_crafted
+    Light armor 08_crafted
+    Lynx Armor
+    Lynx Armor 1
+    Lynx Armor 2
+    Lynx Armor 3
+    Lynx Boots 1
+    Lynx Boots 2
+    Lynx Boots 3
+    Lynx Boots 4
+    Lynx Gloves 1
+    Lynx Gloves 2
+    Lynx Gloves 3
+    Lynx Gloves 4
+    Lynx Pants 1
+    Lynx Pants 2
+    Lynx Pants 3
+    Lynx Pants 4
+    Medium armor 01_crafted
+    Medium armor 02_crafted
+    Medium armor 03_crafted
+    Medium armor 04_crafted
+    Pants 01_crafted
+    Pants 02_crafted
+    Pants 03_crafted
+    Pants 04_crafted
+    Relic Heavy 3 crafted
+    Starting Armor 1
+    Thyssen armor crafted

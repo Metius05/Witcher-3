@@ -1,0 +1,102 @@
+    Dazhbog rune
+    Dazhbog rune rare
+    Devana rune
+    Devana rune rare
+    Elemental rune
+    Elemental rune rare
+    Forgotten soul
+    Forgotten soul rare
+    Glyph aard
+    Glyph aard greater
+    Glyph aard lesser
+    Glyph axii
+    Glyph axii greater
+    Glyph axii lesser
+    Glyph igni
+    Glyph igni greater
+    Glyph igni lesser
+    Glyph quen
+    Glyph quen greater
+    Glyph quen lesser
+    Glyph yrden
+    Glyph yrden greater
+    Glyph yrden lesser
+    Horse apex tail
+    Horse Bag 1
+    Horse Bag 2
+    Horse Bag 3
+    Horse Blinder 1
+    Horse Blinder 2
+    Horse Blinder 3
+    Horse Cutscene Reins
+    Horse Hair 0
+    Horse Harness 0
+    Horse Saddle 0
+    Horse Saddle 1
+    Horse Saddle 1v2
+    Horse Saddle 1v3
+    Horse Saddle 1v4
+    Horse Saddle 2
+    Horse Saddle 2v2
+    Horse Saddle 2v3
+    Horse Saddle 2v4
+    Horse Saddle 3
+    Horse Saddle 3v2
+    Horse Saddle 3v3
+    Horse Saddle 3v4
+    Horse Saddle 4
+    Horse skinned tail
+    Horse Universal Reins
+    Morana rune
+    Morana rune rare
+    Perun rune
+    Perun rune rare
+    Philosophers stone
+    Philosophers stone rare
+    Phosphorescent crystal
+    Phosphorescent crystal rare
+    Rune dazhbog
+    Rune dazhbog greater
+    Rune dazhbog lesser
+    Rune devana
+    Rune devana greater
+    Rune devana lesser
+    Rune elemental
+    Rune elemental greater
+    Rune elemental lesser
+    Rune morana
+    Rune morana greater
+    Rune morana lesser
+    Rune perun
+    Rune perun greater
+    Rune perun lesser
+    Rune quentin
+    Rune quentin greater
+    Rune quentin lesser
+    Rune stribog
+    Rune stribog greater
+    Rune stribog lesser
+    Rune svarog
+    Rune svarog greater
+    Rune svarog lesser
+    Rune triglav
+    Rune triglav greater
+    Rune triglav lesser
+    Rune veles
+    Rune veles greater
+    Rune veles lesser
+    Rune zoria
+    Rune zoria greater
+    Rune zoria lesser
+    Shattered core
+    Shattered core rare
+    Stribog rune
+    Stribog rune rare
+    Svarog rune
+    Svarog rune rare
+    Triglav rune
+    Triglav rune rare
+    Veles rune
+    Veles rune rare
+    Zoria rune
+    Zoria rune rare
